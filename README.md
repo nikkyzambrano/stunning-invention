@@ -1,14 +1,9 @@
 # stunning-invention
 First time back in GitHub navigating it to begin my own website for coding company.
 
-@import 
-url(https://fonts.googleapis.com/css?family=Indie+Flower);
-
 <style> h1 {
   color: gray;
-  font-family: Indie Flower;
+  font-family: Helvetica;
   font-weight: bold;
   font-size: 50
 }</style>
-
-Welcome to Zambi Coding 
